@@ -1,2 +1,2 @@
-# c_courese_project
-c_courese_project
+# c_course_project
+c_course_project
